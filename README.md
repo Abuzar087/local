@@ -1,1 +1,1 @@
- I am a readme file detail of your project
+ I am a readme file detail of your project and  i am a author also
